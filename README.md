@@ -2,7 +2,7 @@
 
 ## Questions to be answered: 
 
-     - How Many home runs per player?
+     - How many home runs per player?
      - How did they do in Home vs Away games? 
 
 ## NOTE: Please create Databse on POSTgreSQL called "baseball_db" in order to run the rest of the queries. 
