@@ -12,7 +12,7 @@
     1) Run kaggle_mlb jupyter notebook to get hr results 
     2) Run baseball_etl to get performance results 
     3) NOTE: import time, datetime, beautifulSoup 
-    4) Run data_etl to load databases into PostgreSQL
+    4) Run data_etl to load databases into PostgreSQL, Note: Enter your PostgresSQL password in config.py
     5) Refer to query.sql for final results  
     
 
