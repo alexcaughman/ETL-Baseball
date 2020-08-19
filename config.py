@@ -1,1 +1,1 @@
-key = 'your password for Postgres'
+key = 'your password'
